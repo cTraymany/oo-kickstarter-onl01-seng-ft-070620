@@ -14,6 +14,7 @@ class Backer
   
   def add_backer(backer)
     project = Project.new(title)
+    
   end
   
   
