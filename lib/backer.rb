@@ -12,10 +12,4 @@ class Backer
     self.backed_projects << project
     project.backers << self
   end
-  
- 
-    # new_project.backers << self
-    # new_project = Project.new(project)
-  
-  
 end
